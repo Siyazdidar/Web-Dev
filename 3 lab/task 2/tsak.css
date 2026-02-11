@@ -1,0 +1,48 @@
+.top{
+    color: gray; 
+    background-color:black; 
+    height: 20px;
+    padding: 10px 100px;
+}
+
+.todo{
+    margin-left: -50%;
+    margin-top: 30px;
+    font-size: 50px;
+}
+
+.input-tex{
+    margin-top: 20px;
+    margin-left: -3%;
+    width: 600px;
+    height: 40px;
+    border-radius: 3px;
+    padding: 5px;
+}
+.input-butt{
+    background-color: blue;
+    color: white;
+    border-radius: 3px;
+    height: 40px;
+    width: 60px;
+    margin-left: 2%;
+}
+
+.todolist{
+    margin-left: 24% ;
+    
+}
+.list{
+    border: 1px solid;
+    width: 700px;
+    height: 20px;
+    border-radius: 10px;
+    display: flex;
+    padding: 20px;
+}
+.box{
+    border: none;
+    background-color:white;
+    margin-top: -3%;
+    cursor: pointer;
+}
